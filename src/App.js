@@ -17,7 +17,7 @@ const App = () => {
   return (
     <>
       <h1> {count + " " + "Times"} </h1>
-      <button onClick={IncNum}>Naila say's SubhanAllah</button>
+      <button onClick={IncNum}>You say's SubhanAllah</button>
     </>
   );
 };
