@@ -1,2 +1,2 @@
-# subhan-Allah-tasbih
+# shaikh
 Created with CodeSandbox
